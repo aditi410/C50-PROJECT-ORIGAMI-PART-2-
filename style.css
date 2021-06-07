@@ -1,0 +1,42 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: cornsilk;
+
+}
+.body{
+    background-color: rgb(200, 255, 0);
+}
+.header{
+    background-color:darkturquoise;
+    display: flex;
+    justify-content:space-evenly;
+    font-size:25px ;
+}
+
+.grid{
+  
+    border: radius 20px  solid; 
+    border-color: teal;
+    background-color:tomato;
+    display:flex;
+   
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.origami{
+border-radius: 20px;
+border-color: black;
+background-color: darksalmon;
+width: 310px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
